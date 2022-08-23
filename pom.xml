@@ -11,7 +11,7 @@
     <groupId>com.test002-11</groupId>
     <artifactId>demospringHelloWorldin11</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>demospringHelloWorldin11</name>
     <description>demospringHelloWorldin11</description>
     <properties>
